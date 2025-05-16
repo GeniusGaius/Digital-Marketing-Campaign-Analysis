@@ -13,7 +13,7 @@ In this project, I analyzed digital campaign data to uncover whether marketing e
 ## Methodology
 I used **Return on Marketing Investment (ROMI)** as the central performance metric to evaluate the effectiveness of different digital channels.
 
-## 🛠 Tools & Skills Applied
+## Tools & Skills Applied
 - **Power BI** for data modeling and dashboard development  
 - **Data Cleaning & Transformation**  
 - **Calculated Measures (e.g., ROMI)**  
@@ -49,12 +49,17 @@ I used **Return on Marketing Investment (ROMI)** as the central performance metr
 - **Mid-month spikes** in orders  
 - **Weekdays** slightly outperform weekends  
 
-## ✅ Recommendation
+## Recommendation
 
 - **Scale YouTube Influencer spend** for better ROI  
 - **Cut back on Facebook Retargeting and Search Ads**  
 - **Time campaigns around mid-month** to ride order peaks
 
-## 📌 Summary
+## Dashboard Visuals
+<a href="https://github.com/GeniusGaius/Digital-Marketing-Campaign-Analysis/blob/main/Digital%20Campaign%20Dashboard%20Img.PNG">View Dashboard</a>
+![Digital Campaign Dashboard Img](https://github.com/user-attachments/assets/8aae6617-b73d-4b13-bf86-89566f524dc0)
+
+
+## Summary
 
 This project showcases how **data storytelling** and **clear ROI metrics** can drive marketing decisions. It also demonstrates my ability to derive actionable insights from complex campaign data using Power BI.
