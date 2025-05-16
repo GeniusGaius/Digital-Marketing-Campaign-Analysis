@@ -26,9 +26,8 @@ I used **Return on Marketing Investment (ROMI)** as the central performance metr
 - Total Leads  
 - Cost Per Click (CPC)
 
-## 📊 Key Insights
-
-### What Worked
+## 📊 Key Insights:
+### What Worked?
 - **YouTube Influencers** outperformed every other channel with:
   - 💰 **$15M ROMI**
   - 🛒 **1,914 orders**
@@ -39,7 +38,7 @@ I used **Return on Marketing Investment (ROMI)** as the central performance metr
   - **$43M** revenue  
   - **$12.3M** in gross profit  
 
-### ⚠️ What Underperformed
+### What Underperformed?
 - **Facebook Retargeting**:
   - $1M ROMI with just 108 orders
 
