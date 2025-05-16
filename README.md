@@ -1,5 +1,4 @@
 # Digital Marketing Campaign Analysis  
----
 
 ## 🧠 Project Objective
 
@@ -8,7 +7,6 @@ To understand if marketing spend is truly driving revenue—or is the budget jus
 In this project, I analyzed digital campaign data to uncover whether marketing efforts were delivering **actual returns**. The goal was to answer one core question every marketing team should ask:  
 > **"Are we making money from our campaigns—or just spending it?"*
 
----
 # Dataset Used
 -<a href="https://github.com/GeniusGaius/Digital-Marketing-Campaign-Analysis/blob/main/Marketing.csv">Digital Marketing Dataset</a>
 
@@ -31,10 +29,9 @@ I used **Return on Marketing Investment (ROMI)** as the central performance metr
 ## 📊 Key Insights:
 ### What Worked?
 - **YouTube Influencers** outperformed every other channel with:
-  - 💰 **$15M ROMI**
-  - 🛒 **1,914 orders**
-  - 🔝 Recommended for budget scaling
-
+  - **$15M ROMI**
+  - **1,914 orders**
+ 
 - Overall, the campaign was profitable:
   - **$31M** spent  
   - **$43M** revenue  
@@ -46,18 +43,18 @@ I used **Return on Marketing Investment (ROMI)** as the central performance metr
 
 - **Search Ads**:
   - ROMI at a low **8.6%**
- ### 📅 Timing Trends
+ ### Timing Trends
 - **Mid-month spikes** in orders  
 - **Weekdays** slightly outperform weekends  
 
----
+
 ## Recommendation
 
 - **Scale YouTube Influencer spend** for better ROI  
 - **Cut back on Facebook Retargeting and Search Ads**  
 - **Time campaigns around mid-month** to ride order peaks
 
----
+
 ## Summary
 
 This project showcases how **data storytelling** and **clear ROI metrics** can drive marketing decisions. It also demonstrates my ability to derive actionable insights from complex campaign data using Power BI.
