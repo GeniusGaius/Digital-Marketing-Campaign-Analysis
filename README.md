@@ -1,4 +1,5 @@
 # Digital Marketing Campaign Analysis  
+---
 
 ## 🧠 Project Objective
 
@@ -7,6 +8,7 @@ To understand if marketing spend is truly driving revenue—or is the budget jus
 In this project, I analyzed digital campaign data to uncover whether marketing efforts were delivering **actual returns**. The goal was to answer one core question every marketing team should ask:  
 > **"Are we making money from our campaigns—or just spending it?"*
 
+---
 # Dataset Used
 -<a href="https://github.com/GeniusGaius/Digital-Marketing-Campaign-Analysis/blob/main/Marketing.csv">Digital Marketing Dataset</a>
 
@@ -48,17 +50,23 @@ I used **Return on Marketing Investment (ROMI)** as the central performance metr
 - **Mid-month spikes** in orders  
 - **Weekdays** slightly outperform weekends  
 
+---
 ## Recommendation
 
 - **Scale YouTube Influencer spend** for better ROI  
 - **Cut back on Facebook Retargeting and Search Ads**  
 - **Time campaigns around mid-month** to ride order peaks
 
-## Dashboard Visuals
-<a href="https://github.com/GeniusGaius/Digital-Marketing-Campaign-Analysis/blob/main/Digital%20Campaign%20Dashboard%20Img.PNG">View Dashboard</a>
-![Digital Campaign Dashboard Img](https://github.com/user-attachments/assets/8aae6617-b73d-4b13-bf86-89566f524dc0)
-
-
+---
 ## Summary
 
 This project showcases how **data storytelling** and **clear ROI metrics** can drive marketing decisions. It also demonstrates my ability to derive actionable insights from complex campaign data using Power BI.
+
+---
+## Dashboard Visuals
+<a href="https://github.com/GeniusGaius/Digital-Marketing-Campaign-Analysis/blob/main/Digital%20Campaign%20Dashboard%20Img.PNG">View Dashboard</a>
+<a href="https://www.linkedin.com/posts/john-gaius-m_dataanalytics-powerbi-digitalmarketing-activity-7319071201467752449-ZRWl?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwTWvwBrwno3DC96otPksttbAeLF72I-bQ">Complete Project Analysis Walkthrough Video</a>
+![Digital Campaign Dashboard Img](https://github.com/user-attachments/assets/8aae6617-b73d-4b13-bf86-89566f524dc0)
+
+
+
