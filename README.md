@@ -10,6 +10,51 @@ In this project, I analyzed digital campaign data to uncover whether marketing e
 # Dataset Used
 -<a href="https://github.com/GeniusGaius/Digital-Marketing-Campaign-Analysis/blob/main/Marketing.csv">Digital Marketing Dataset</a>
 
-## 🔍 Methodology
-
+## Methodology
 I used **Return on Marketing Investment (ROMI)** as the central performance metric to evaluate the effectiveness of different digital channels.
+
+## 🛠 Tools & Skills Applied
+- **Power BI** for data modeling and dashboard development  
+- **Data Cleaning & Transformation**  
+- **Calculated Measures (e.g., ROMI)**  
+- **Interactive Visualizations**
+
+**Key Metrics Analyzed:**
+- Marketing Spend  
+- Revenue Generated  
+- Gross Profit  
+- Total Leads  
+- Cost Per Click (CPC)
+
+## 📊 Key Insights
+
+### What Worked
+- **YouTube Influencers** outperformed every other channel with:
+  - 💰 **$15M ROMI**
+  - 🛒 **1,914 orders**
+  - 🔝 Recommended for budget scaling
+
+- Overall, the campaign was profitable:
+  - **$31M** spent  
+  - **$43M** revenue  
+  - **$12.3M** in gross profit  
+
+### ⚠️ What Underperformed
+- **Facebook Retargeting**:
+  - $1M ROMI with just 108 orders
+
+- **Search Ads**:
+  - ROMI at a low **8.6%**
+ ### 📅 Timing Trends
+- **Mid-month spikes** in orders  
+- **Weekdays** slightly outperform weekends  
+
+## ✅ Recommendation
+
+- **Scale YouTube Influencer spend** for better ROI  
+- **Cut back on Facebook Retargeting and Search Ads**  
+- **Time campaigns around mid-month** to ride order peaks
+
+## 📌 Summary
+
+This project showcases how **data storytelling** and **clear ROI metrics** can drive marketing decisions. It also demonstrates my ability to derive actionable insights from complex campaign data using Power BI.
