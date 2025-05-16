@@ -61,7 +61,6 @@ This project showcases how **data storytelling** and **clear ROI metrics** can d
 
 ---
 ## Dashboard Visuals
-<a href="https://github.com/GeniusGaius/Digital-Marketing-Campaign-Analysis/blob/main/Digital%20Campaign%20Dashboard%20Img.PNG">View Dashboard</a>
 <a href="https://www.linkedin.com/posts/john-gaius-m_dataanalytics-powerbi-digitalmarketing-activity-7319071201467752449-ZRWl?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwTWvwBrwno3DC96otPksttbAeLF72I-bQ">Complete Project Analysis Walkthrough Video</a>
 ![Digital Campaign Dashboard Img](https://github.com/user-attachments/assets/8aae6617-b73d-4b13-bf86-89566f524dc0)
 
