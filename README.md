@@ -1,68 +1,56 @@
-# Digital Marketing Campaign Analysis  
+# 🚀 Digital Marketing Campaign Analysis — Power BI Case Study
 
-## 🧠 Project Objective
+## 🎯 Objective
+Every dollar spent on marketing should earn its keep. This project answers the question **every CMO wants to know**:
 
-To understand if marketing spend is truly driving revenue—or is the budget just burning without results?
+> **“Which digital channels are driving profit—and which are wasting budget?”**
 
-In this project, I analyzed digital campaign data to uncover whether marketing efforts were delivering **actual returns**. The goal was to answer one core question every marketing team should ask:  
-> **"Are we making money from our campaigns—or just spending it?"*
+## 🧩 Business Scenario
+You're a marketing exec reviewing Q4 campaign spend. You’ve allocated $31M across multiple channels: influencers, ads, email, social media. Revenue is in—but was it worth it?
 
-# Dataset Used
--<a href="https://github.com/GeniusGaius/Digital-Marketing-Campaign-Analysis/blob/main/Marketing.csv">Digital Marketing Dataset</a>
+My job was to **analyze the data and deliver clear, actionable recommendations** based on Return on Marketing Investment (ROMI).
 
-## Methodology
-I used **Return on Marketing Investment (ROMI)** as the central performance metric to evaluate the effectiveness of different digital channels.
+## 🔧 Tools & Skills
+- **Power BI** – full dashboard design and visual storytelling  
+- **DAX Measures** – ROMI, CPC, Orders by Channel, etc.  
+- **Data Cleaning** – transforming raw campaign data  
+- **Business Insight Framing** – for stakeholder presentation  
 
-## Tools & Skills Applied
-- **Power BI** for data modeling and dashboard development  
-- **Data Cleaning & Transformation**  
-- **Calculated Measures (e.g., ROMI)**  
-- **Interactive Visualizations**
+## 📈 Key Findings
 
-**Key Metrics Analyzed:**
-- Marketing Spend  
-- Revenue Generated  
-- Gross Profit  
-- Total Leads  
-- Cost Per Click (CPC)
+### 💡 What’s Driving ROI?
+- **YouTube Influencers** are crushing it:
+  - $15M ROMI  
+  - 1,914 orders  
+- Campaign total performance:
+  - $43M in revenue from $31M spend  
+  - $12.3M gross profit  
 
-## 📊 Key Insights:
-### What Worked?
-- **YouTube Influencers** outperformed every other channel with:
-  - **$15M ROMI**
-  - **1,914 orders**
- 
-- Overall, the campaign was profitable:
-  - **$31M** spent  
-  - **$43M** revenue  
-  - **$12.3M** in gross profit  
-
-### What Underperformed?
+### 🔻 What’s Draining Budget?
 - **Facebook Retargeting**:
-  - $1M ROMI with just 108 orders
-
+  - Only 108 orders from high spend  
 - **Search Ads**:
-  - ROMI at a low **8.6%**
- ### Timing Trends
-- **Mid-month spikes** in orders  
-- **Weekdays** slightly outperform weekends  
+  - Weak ROMI at just 8.6%  
+
+### 📆 Time-Based Trends
+- Orders peak mid-month  
+- Weekdays outperform weekends  
+
+## 💼 Strategic Recommendations
+- **Double down on YouTube Influencer budget**  
+- **Cut underperforming Facebook and Search campaigns**  
+- **Time ad rollouts to align with mid-month spikes**
+
+## 🎥 Walkthrough Video & Dashboard
+[📺 Watch the Full Analysis Breakdown on LinkedIn](https://www.linkedin.com/posts/john-gaius-m_dataanalytics-powerbi-digitalmarketing-activity-7319071201467752449-ZRWl?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwTWvwBrwno3DC96otPksttbAeLF72I-bQ)  
+
+![Digital Campaign Dashboard View](https://github.com/user-attachments/assets/701b89f3-6bd9-487a-bbd2-c157d1825cbf)
 
 
-## Recommendation
+## ✅ Takeaway
+This project demonstrates how I help **marketing teams translate performance data into ROI clarity**—fast. Whether it’s millions on the line or thousands, the same principle applies:
 
-- **Scale YouTube Influencer spend** for better ROI  
-- **Cut back on Facebook Retargeting and Search Ads**  
-- **Time campaigns around mid-month** to ride order peaks
+> **Spend smart. Cut waste. Scale what works.**
 
-
-## Summary
-
-This project showcases how **data storytelling** and **clear ROI metrics** can drive marketing decisions. It also demonstrates my ability to derive actionable insights from complex campaign data using Power BI.
-
----
-## Dashboard Visuals
-<a href="https://www.linkedin.com/posts/john-gaius-m_dataanalytics-powerbi-digitalmarketing-activity-7319071201467752449-ZRWl?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwTWvwBrwno3DC96otPksttbAeLF72I-bQ">Complete Project Analysis Walkthrough Video</a>
-![Digital Campaign Dashboard Img](https://github.com/user-attachments/assets/8aae6617-b73d-4b13-bf86-89566f524dc0)
-
-
-
+## 📂 Dataset  
+[📄 View the Marketing Dataset](https://github.com/GeniusGaius/Digital-Marketing-Campaign-Analysis/blob/main/Marketing.csv)
