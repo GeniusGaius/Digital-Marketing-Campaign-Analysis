@@ -1,56 +1,104 @@
 # 🚀 Digital Marketing Campaign Analysis — Power BI Case Study
 
+> “Spend smart. Cut waste. Scale what works.”
+
+---
+
 ## 🎯 Objective
+
 Every dollar spent on marketing should earn its keep. This project answers the question **every CMO wants to know**:
 
-> **“Which digital channels are driving profit—and which are wasting budget?”**
+> **Which digital channels are driving profit—and which are draining budget?**
+
+---
 
 ## 🧩 Business Scenario
-You're a marketing exec reviewing Q4 campaign spend. You’ve allocated $31M across multiple channels: influencers, ads, email, social media. Revenue is in—but was it worth it?
 
-My job was to **analyze the data and deliver clear, actionable recommendations** based on Return on Marketing Investment (ROMI).
+You’re the CMO of a mid-to-large brand. You’ve allocated **$31M in Q4** across:
 
-## 🔧 Tools & Skills
-- **Power BI** – full dashboard design and visual storytelling  
-- **DAX Measures** – ROMI, CPC, Orders by Channel, etc.  
-- **Data Cleaning** – transforming raw campaign data  
-- **Business Insight Framing** – for stakeholder presentation  
+- YouTube & Instagram Influencers  
+- Facebook & Google Ads  
+- Email Marketing & Retargeting Campaigns
 
-## 📈 Key Findings
+Revenue is in. Now it’s time to assess:
 
-### 💡 What’s Driving ROI?
-- **YouTube Influencers** are crushing it:
-  - $15M ROMI  
-  - 1,914 orders  
-- Campaign total performance:
-  - $43M in revenue from $31M spend  
-  - $12.3M gross profit  
+- Did we spend wisely?
+- Which channels delivered ROI?
+- Where should we scale or cut?
 
-### 🔻 What’s Draining Budget?
-- **Facebook Retargeting**:
-  - Only 108 orders from high spend  
-- **Search Ads**:
-  - Weak ROMI at just 8.6%  
+My job was to transform raw data into **clear, actionable ROI insights**.
 
-### 📆 Time-Based Trends
-- Orders peak mid-month  
-- Weekdays outperform weekends  
+---
+
+## 🛠️ Tools & Skills Applied
+
+- 📊 **Power BI** – Interactive dashboard creation  
+- 🧮 **DAX Measures** – ROMI, CPC, Orders by Channel, Conversion Rate  
+- 🧹 **Power Query** – Data transformation and modeling  
+- 🧠 **Executive-Level Insight Framing** – Strategic storytelling  
+
+---
+
+## 📊 Key Insights
+
+### 💡 Top-Performing Channels
+- **YouTube Influencers**
+  - $15M ROMI — Highest overall return
+  - 1,914 Orders  
+- **Email Marketing**
+  - Low spend, strong conversion — High ROMI
+
+### 🔻 Budget Drains
+- **Facebook Retargeting**
+  - High spend, only 108 orders — Not cost-effective  
+- **Search Ads**
+  - ROMI of just 8.6% — Weakest performer
+
+### 🗓️ Time-Based Trends
+- Order volume peaks **mid-month**  
+- **Weekdays** perform better than weekends
+
+---
 
 ## 💼 Strategic Recommendations
-- **Double down on YouTube Influencer budget**  
-- **Cut underperforming Facebook and Search campaigns**  
-- **Time ad rollouts to align with mid-month spikes**
 
-## 🎥 Walkthrough Video & Dashboard
-[📺 Watch the Full Analysis Breakdown on LinkedIn](https://www.linkedin.com/posts/john-gaius-m_dataanalytics-powerbi-digitalmarketing-activity-7319071201467752449-ZRWl?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwTWvwBrwno3DC96otPksttbAeLF72I-bQ)  
+1. 📈 **Scale YouTube & Email Marketing Budgets**  
+2. ✂️ **Pause or reassess Facebook Retargeting and Search Ads**  
+3. ⏱️ **Schedule campaign rollouts to hit mid-month sweet spots**
 
-![Digital Campaign Dashboard View](https://github.com/user-attachments/assets/701b89f3-6bd9-487a-bbd2-c157d1825cbf)
+---
+
+## 📺 Walkthrough Video & Dashboard Preview
+
+[▶️ **Watch the Full Breakdown on LinkedIn**](https://www.linkedin.com/posts/john-gaius-m_dataanalytics-powerbi-digitalmarketing-activity-7319071201467752449-ZRWl?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwTWvwBrwno3DC96otPksttbAeLF72I-bQ)
+
+![Digital_Campaign_Dashboard_View](https://github.com/user-attachments/assets/3305e919-d361-487e-b7f0-b1c905ccf624)
 
 
-## ✅ Takeaway
-This project demonstrates how I help **marketing teams translate performance data into ROI clarity**—fast. Whether it’s millions on the line or thousands, the same principle applies:
+---
 
-> **Spend smart. Cut waste. Scale what works.**
+## 📂 Dataset
 
-## 📂 Dataset  
-[📄 View the Marketing Dataset](https://github.com/GeniusGaius/Digital-Marketing-Campaign-Analysis/blob/main/Marketing.csv)
+[📄 Download the Dataset (Marketing.csv)](https://github.com/GeniusGaius/Digital-Marketing-Campaign-Analysis/blob/main/Marketing.csv)
+
+---
+
+## ✅ Final Takeaway
+
+This project shows how I help **marketing teams turn numbers into clarity**.
+
+Whether the budget is **$3,000 or $30 million**, the goal is the same:
+
+> **Invest in what works. Eliminate waste. Repeat what scales.**
+
+---
+```
+
+---
+
+### 📌 Final Steps for You
+
+1. **Upload your dashboard image** as `digital_marketing_dashboard.png` into your `/assets/` folder.
+2. **Verify your link path** to the image if it's in a different folder.
+
+Once you're done, send me the **next project** — we’ll keep leveling them up until you’ve got a portfolio that demands attention.
