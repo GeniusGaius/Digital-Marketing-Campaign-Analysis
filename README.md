@@ -72,6 +72,7 @@ My job was to transform raw data into **clear, actionable ROI insights**.
 
 [▶️ **Watch the Full Breakdown on LinkedIn**](https://www.linkedin.com/posts/john-gaius-m_dataanalytics-powerbi-digitalmarketing-activity-7319071201467752449-ZRWl?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwTWvwBrwno3DC96otPksttbAeLF72I-bQ)
 
+
 ![Digital_Campaign_Dashboard_View](https://github.com/user-attachments/assets/3305e919-d361-487e-b7f0-b1c905ccf624)
 
 
@@ -91,14 +92,3 @@ Whether the budget is **$3,000 or $30 million**, the goal is the same:
 
 > **Invest in what works. Eliminate waste. Repeat what scales.**
 
----
-```
-
----
-
-### 📌 Final Steps for You
-
-1. **Upload your dashboard image** as `digital_marketing_dashboard.png` into your `/assets/` folder.
-2. **Verify your link path** to the image if it's in a different folder.
-
-Once you're done, send me the **next project** — we’ll keep leveling them up until you’ve got a portfolio that demands attention.
